@@ -1,13 +1,3 @@
-//
-// import '../service.dart';
-// import 'package:js/js.dart' as js;
-//
-// class WebPlatformService implements PlatformService {
-//   @override
-//   void performAction() {
-//     js.context.callMethod('performAction');
-//   }
-// }
 import 'package:flutter/material.dart';
 import 'package:js/js.dart';
 
